@@ -5,9 +5,9 @@
   "engines": {
     "node": "12.x"
   },
-  "main": "index.js",
+  "main": "prove01.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon prove01.js",
     "test": "node test.js"
   },
   "dependencies": {
